@@ -24,7 +24,7 @@
 
 | Script |
 | ------ |
-| Dwm Config / mykeybind / [config.h](https://github.com/samwhelp/dwm/blob/mykeybind-dev/src/custom/config.h) |
+| Dwm Config / mykeybind / [config.h](https://github.com/samwhelp/dwm/blob/mykeybind/src/custom/config.h) |
 | Ubuntu / [Tool Config](https://github.com/samwhelp/ubuntu-adjustment/tree/main/prototype/main/tool-config/part) |
 | Fedora / [Tool Config](https://github.com/samwhelp/fedora-adjustment/tree/main/prototype/main/tool-config/part) |
 | Archlinux / [Tool Config](https://github.com/samwhelp/archlinux-adjustment/tree/main/prototype/main/tool-config/part) |
